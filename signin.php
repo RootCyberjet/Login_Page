@@ -3,7 +3,7 @@
   <head><title>Sign In Page</title></head>
   <body style="background-color : green;text-align:center">
   
-	<h1 style="color:red"><span style="background-color:yellow"><b><u>TESTING SITE</b></u></span></h1>
+	<h1 style="color:red"><span style="background-color:yellow"><b><u>TESTING SITE</u></b></span></h1>
 	<h3><span style="background-color:yellow">N.B: Don't put your sensitive credentials in this website.</span></h3>
 	
 	
