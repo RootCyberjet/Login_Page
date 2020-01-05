@@ -7,7 +7,7 @@
 	<h3><span style="background-color:yellow">N.B: Don't put your sensitive credentials in this website.</span></h3>
 	
 	
-	<div style="background-color:yellow"><b><p><span style="color:blue;background-color:yellow"><u>NEW USER SIGN IN PAGE</u></p></b>
+	<div style="background-color:yellow"><span style="color:blue;background-color:yellow"><b><p><u>NEW USER SIGN IN PAGE</u></p></b>
      <form action="process1.php" method="post">
 	   <span style="color:red"><b>Username :</b></span>  <input type="text" name="username" value="" placeholder="username" style="background-color:yellow" required><br><br>
 	   <span style="color:red"><b>Password :</b></span>  <input type="password" name="password1" value="" placeholder="New Password" style="background-color:yellow" required><br><br>
