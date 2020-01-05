@@ -14,9 +14,9 @@
        <span style="color:red"><b>Verify New Password :</b></span>  <input type="password" name="password2" value="" placeholder="Verify New Password" style="background-color:yellow" required><br><br>
        <input type="submit" value="Sign in" style="background-color:red">
 	 </form>
-	 <p><b><span style="color:blue;background-color:yellow">MEMBER !!!!! <a href="http://localhost:8080/login.php">Log in</a></span></b></P></div>
+	 <span style="color:blue;background-color:yellow"><p><b>MEMBER !!!!! <a href="http://localhost:8080/login.php">Log in</a></b></p></div>
 	<footer style="background-color:pink;color:red">
-		<h5><span >Posted by : RootCyberjet</h5>
+		<h5>Posted by : RootCyberjet</h5>
 	</footer>
   
   </body>
