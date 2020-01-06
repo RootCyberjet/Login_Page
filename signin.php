@@ -4,7 +4,7 @@
   <body style="background-color : green;text-align:center">
   
 	  <h1><span style="background-color:yellow;color:red"><b><u>TESTING SITE</u></b></span></h1>
-	<h3><span style="background-color:yellow">N.B: Don't put your sensitive credentials in this website.</h3>
+	<h3><span style="background-color:yellow">N.B: Don't put your sensitive credentials in this website.</span></h3>
 	
 	
 	<div style="background-color:yellow"><span style="color:blue;background-color:yellow"><b><p><u>NEW USER SIGN IN PAGE</u></p></b>
